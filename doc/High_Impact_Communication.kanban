@@ -1,0 +1,158 @@
+{
+  "lists": [
+    {
+      "id": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+      "title": "Plan",
+      "cards": [
+        {
+          "id": "6dcc7d99-cc2c-445f-b838-d8eb0995368a",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "Preguntas Reflexivas para la mejora del aprendizaje",
+          "description": "Hablemos de las preguntas como herramientas para mejorar la comunicacion",
+          "labels": [
+            {
+              "id": "c738b586-5da5-409e-ba18-76091c18e642",
+              "title": "Preguntas",
+              "color": "#61bd4f"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "a2c8eeda-d757-491e-a93f-9a11a38ec860",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "Los Tipos de Preguntas",
+          "description": "Hablemos de las preguntas como herramientas para mejorar la comunicacion",
+          "labels": [
+            {
+              "id": "c738b586-5da5-409e-ba18-76091c18e642",
+              "title": "Preguntas",
+              "color": "#61bd4f"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "9f0c1c9a-3055-481e-b8fd-0c3c5287f880",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "Preguntas Expertas",
+          "description": "Hablemos de las preguntas como herramientas para mejorar la comunicacion",
+          "labels": [
+            {
+              "id": "c738b586-5da5-409e-ba18-76091c18e642",
+              "title": "Preguntas",
+              "color": "#61bd4f"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "2cfe2bd0-5788-40c4-bd1c-8d8c9bba7519",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "Preguntas para la mejora Continua",
+          "description": "",
+          "labels": [
+            {
+              "id": "c738b586-5da5-409e-ba18-76091c18e642",
+              "title": "Preguntas",
+              "color": "#61bd4f"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "059ab3e3-56a9-4bff-b158-556dfc8ac26c",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "¿Debemos de Relacionarnos?",
+          "description": "",
+          "labels": [
+            {
+              "id": "2e0f9f2a-b398-4b8b-9e46-c8d5c4e3aec2",
+              "title": "Relacion Afectiva",
+              "color": "#eb5a46"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "fcdebbb3-3488-4de9-a914-dd4e66748cdb",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "Taticas de lenguaje afectivo",
+          "description": "",
+          "labels": [
+            {
+              "id": "2e0f9f2a-b398-4b8b-9e46-c8d5c4e3aec2",
+              "title": "Relacion Afectiva",
+              "color": "#eb5a46"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "aa499d14-10ea-4a19-9a41-566116f933a7",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "¿Como hacer amigos?",
+          "description": "",
+          "labels": [
+            {
+              "id": "2e0f9f2a-b398-4b8b-9e46-c8d5c4e3aec2",
+              "title": "Relacion Afectiva",
+              "color": "#eb5a46"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "ffcf1664-921c-4cfb-95b3-164de97b0950",
+          "listId": "c28018dc-0ba4-44c6-94d5-32ad4f474bbe",
+          "title": "Los niveles de initimidad",
+          "description": "",
+          "labels": [
+            {
+              "id": "2e0f9f2a-b398-4b8b-9e46-c8d5c4e3aec2",
+              "title": "Relacion Afectiva",
+              "color": "#eb5a46"
+            }
+          ],
+          "checkboxes": [],
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": "9defa9fd-7e3c-4958-a2b5-3e3d1090dba4",
+      "title": "In progress",
+      "cards": []
+    },
+    {
+      "id": "1198c2ca-e5cb-4a03-8b83-b4dc1fb24062",
+      "title": "Done",
+      "cards": []
+    }
+  ],
+  "archive": {
+    "lists": [],
+    "cards": []
+  },
+  "settings": {
+    "labels": [
+      {
+        "id": "c738b586-5da5-409e-ba18-76091c18e642",
+        "title": "Preguntas",
+        "color": "#61bd4f"
+      },
+      {
+        "id": "2e0f9f2a-b398-4b8b-9e46-c8d5c4e3aec2",
+        "title": "Relacion Afectiva",
+        "color": "#eb5a46"
+      }
+    ]
+  }
+}

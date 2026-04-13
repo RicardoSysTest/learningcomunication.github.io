@@ -1,0 +1,6 @@
+{% extends "base.html"%} {% block content %}
+<h1>Knoledge Management</h1>
+<p>Today is {{today}}</p>
+<a href="{% url 'notes.list' %}" class="btn btn-primary">Learning About Communication Estrategica</a>
+<a href="#" class="btn btn-primary">Django Project Configuration</a>
+{% endblock %}

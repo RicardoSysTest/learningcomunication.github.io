@@ -1,0 +1,39 @@
+{% extends 'base.html' %} {% block content %}
+
+<section id="blog">
+  <div class="blog-heading">
+    <h1 class="my-5">
+      Comunicacion Estrategica Trainning
+    </h1>
+  </div>
+  <div class="card-deck">
+    {% for note in notelist %}
+    <div class="card text-white bg-dark mb-3 rounded-5 shadow">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          {% if note.image %}
+          <img
+            class="card-img rounded-5"
+            src="{{ note.image.url }}"
+            alt="Card image cap"
+          />
+          {% endif %}
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">{{note.title}}</h5>
+            <p class="card-text">{{note.text|truncatechars:20}}</p>
+            <a
+              href="{% url 'notes.detail' pk=note.id %}"
+              class="text-white btn btn-success"
+              >Read</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% endblock %}

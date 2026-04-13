@@ -1,14 +1,12 @@
-# Comunication
-Learning how to Improve the soft skill of communication
+# Kanban Board with Django
 
-
-1. [La Importancia de la comunicacion](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/relevancia_de_la_comunicacion)
-2. [Los Tipos de comunicacion](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/los_tipos_de_comunicacion)
-3. [Improve our way to Listening](https://github.com/RicardoSysTest/Comunication/blob/main/Mejorar%20Nuestra%20Forma%20de%20Escuchar)
-4. [Adaptabilidad Comunicacional](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/adaptabilidad_comunicacional)
-5. [Negociacion y Menajo de Conflictos](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/negociacion_conflictos)
-6. [Proper Use ot Tools](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/how_to)
-7. [Documentacion y Seguimienito Efectivo](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/documetacion)
-8. [Bases del StoryTelling](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/storytelling)
-9. [Lenguaje No verbal](https://github.com/RicardoSysTest/learningcomunication.github.io/blob/main/lenguaje_no_verbal)
-    
+This a personal projecto to document the step by step o how to implmented the backend of a Kanban board.
+01. [Starting Your Django Project](01_Starting_Your_Django_Project.md)
+02. [Build-In User Management](02_Build_In_User_Management.md)
+03. [How Django Interact with Databases](03_How_Django_Interact_with_Databases.md)
+04. [Building Dynamic Webpages]()
+05. [Building Robust Front-Ends in Django]()
+06. [Django Forms: Valisation Shoudln't be hard]()
+07. [Workgin with Existing Data]()
+08. [Using Django to Store and Display User Specific Data]()
+09. [Login, Logout amd Signup are Simple]()              
